@@ -20,6 +20,7 @@ setup(
     description = "A class project that plots far field antenna array patterns",
     long_description = README,
     long_description_content_type = "text/markdown",
+    url = "https://github.com/MdeVillefort/Antennass",
     author = "Monsieur de Villefort",
     author_email = "ethanmross92@gmail.com",
     classifiers = [
